@@ -71,7 +71,7 @@ var FormWizard = function () {
                 },
                 full_name: {
                     required: true,
-                    minlength: 2,
+                    minlength: 2
                 },
                 phone: {
                     required: true
@@ -83,6 +83,15 @@ var FormWizard = function () {
                     required: true
                 },
                 city: {
+                    required: true
+                },
+                company_building_name: {
+                    required: true
+                },
+                building_floors: {
+                    required: true
+                },
+                group_company: {
                     required: true
                 },
                 country: {
