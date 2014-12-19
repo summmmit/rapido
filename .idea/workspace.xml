@@ -26,19 +26,32 @@
       <file leaf-file-name="table_basic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rapido/table_basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2229" column="51" selection-start="84152" selection-end="95500" vertical-scroll-proportion="-6.3846154" vertical-offset="37727" max-vertical-offset="46495">
-              <folding>
-                <element signature="tag#div#0;tag#div#0;tag#div#5;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="2229" column="51" selection-start="84152" selection-end="95500" vertical-scroll-proportion="0.0" vertical-offset="37893" max-vertical-offset="50660">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages_form_wizard.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pages_form_wizard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rooms/pages_form_wizard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1393" column="52" selection-start="55301" selection-end="55301" vertical-scroll-proportion="0.41744187" vertical-offset="23322" max-vertical-offset="33354">
+            <state line="1441" column="74" selection-start="58013" selection-end="58013" vertical-scroll-proportion="-0.0" vertical-offset="24497" max-vertical-offset="33354">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages_menu_administration.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rooms/pages_menu_administration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="312" column="138" selection-start="12672" selection-end="12672" vertical-scroll-proportion="0.6081395" vertical-offset="395" max-vertical-offset="19567">
+              <folding>
+                <element signature="tag#head#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#header#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#nav#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#div#0;tag#nav#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,10 +59,8 @@
       <file leaf-file-name="table_data.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rapido/table_data.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1703" column="57" selection-start="59075" selection-end="59257" vertical-scroll-proportion="-6.4339623" vertical-offset="28117" max-vertical-offset="38556">
-              <folding>
-                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="1703" column="57" selection-start="59075" selection-end="59257" vertical-scroll-proportion="0.0" vertical-offset="28951" max-vertical-offset="39049">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,16 +68,8 @@
       <file leaf-file-name="pages_add_info.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rooms/pages_add_info.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1460" column="30" selection-start="54658" selection-end="54658" vertical-scroll-proportion="-43.692307" vertical-offset="21236" max-vertical-offset="23613">
-              <folding>
-                <element signature="tag#div#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#3;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#4;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#5;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#6;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#7;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#8;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="1460" column="30" selection-start="54658" selection-end="54658" vertical-scroll-proportion="0.0" vertical-offset="24820" max-vertical-offset="30413">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,6 +97,7 @@
         <option value="$PROJECT_DIR$/rooms/form_wizard.php" />
         <option value="$PROJECT_DIR$/rooms/assets/js/form-wizard.js" />
         <option value="$PROJECT_DIR$/rooms/pages_form_wizard.html" />
+        <option value="$PROJECT_DIR$/rooms/pages_menu_administration.html" />
       </list>
     </option>
   </component>
@@ -130,7 +134,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,23 +165,10 @@
               <option name="myItemId" value="rapido" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapido" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapido" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapido" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +228,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -246,7 +236,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26861703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27393618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -280,9 +270,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rapido/form_wizard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2171" column="63" selection-start="84191" selection-end="84328" vertical-scroll-proportion="0.0" vertical-offset="36907" max-vertical-offset="37281">
-          <folding />
-        </state>
+        <state line="2171" column="63" selection-start="84191" selection-end="84328" vertical-scroll-proportion="0.0" vertical-offset="36907" max-vertical-offset="37281" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/pages_form_wizard.html">
@@ -295,9 +283,7 @@
     <entry file="file://$PROJECT_DIR$/rapido/table_basic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2228" column="41" selection-start="84121" selection-end="95500" vertical-scroll-proportion="0.0" vertical-offset="37876" max-vertical-offset="50660">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#5;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -310,16 +296,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/ui_modals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1681" column="53" selection-start="60274" selection-end="60274" vertical-scroll-proportion="0.0" vertical-offset="28577" max-vertical-offset="40426">
-          <folding />
-        </state>
+        <state line="1681" column="53" selection-start="60274" selection-end="60274" vertical-scroll-proportion="0.0" vertical-offset="28577" max-vertical-offset="40426" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2169" column="63" selection-start="84193" selection-end="84193" vertical-scroll-proportion="0.0" vertical-offset="36873" max-vertical-offset="37621">
-          <folding />
-        </state>
+        <state line="2169" column="63" selection-start="84193" selection-end="84193" vertical-scroll-proportion="0.0" vertical-offset="36873" max-vertical-offset="37621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/assets/plugins/bootstrap/css/bootstrap.min.css">
@@ -332,15 +314,7 @@
     <entry file="file://$PROJECT_DIR$/rooms/pages_add_info.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1770" column="56" selection-start="68018" selection-end="68018" vertical-scroll-proportion="0.0" vertical-offset="30090" max-vertical-offset="30413">
-          <folding>
-            <element signature="tag#div#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#3;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#4;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#5;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#6;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#7;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#8;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -351,16 +325,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/ui_modals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1684" column="47" selection-start="60439" selection-end="60649" vertical-scroll-proportion="0.0" vertical-offset="28543" max-vertical-offset="40426">
-          <folding />
-        </state>
+        <state line="1684" column="47" selection-start="60439" selection-end="60649" vertical-scroll-proportion="0.0" vertical-offset="28543" max-vertical-offset="40426" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621">
-          <folding />
-        </state>
+        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_elements.html">
@@ -375,16 +345,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/ui_modals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1691" column="24" selection-start="60656" selection-end="60656" vertical-scroll-proportion="0.0" vertical-offset="28747" max-vertical-offset="40426">
-          <folding />
-        </state>
+        <state line="1691" column="24" selection-start="60656" selection-end="60656" vertical-scroll-proportion="0.0" vertical-offset="28747" max-vertical-offset="40426" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621">
-          <folding />
-        </state>
+        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_elements.html">
@@ -399,9 +365,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621">
-          <folding />
-        </state>
+        <state line="33" column="75" selection-start="2038" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="37621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_elements.html">
@@ -511,9 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/ui_modals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1681" column="53" selection-start="60274" selection-end="60274" vertical-scroll-proportion="0.0" vertical-offset="28577" max-vertical-offset="40426">
-          <folding />
-        </state>
+        <state line="1681" column="53" selection-start="60274" selection-end="60274" vertical-scroll-proportion="0.0" vertical-offset="28577" max-vertical-offset="40426" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/assets/plugins/bootstrap/css/bootstrap.min.css">
@@ -525,16 +487,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2169" column="63" selection-start="84193" selection-end="84193" vertical-scroll-proportion="0.0" vertical-offset="36873" max-vertical-offset="37621">
-          <folding />
-        </state>
+        <state line="2169" column="63" selection-start="84193" selection-end="84193" vertical-scroll-proportion="0.0" vertical-offset="36873" max-vertical-offset="37621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/form_wizard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2171" column="63" selection-start="84191" selection-end="84328" vertical-scroll-proportion="0.0" vertical-offset="36907" max-vertical-offset="37281">
-          <folding />
-        </state>
+        <state line="2171" column="63" selection-start="84191" selection-end="84328" vertical-scroll-proportion="0.0" vertical-offset="36907" max-vertical-offset="37281" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/assets/plugins/jQuery-Smart-Wizard/js/jquery.smartWizard.js">
@@ -556,41 +514,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/pages_add_info.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1460" column="30" selection-start="54658" selection-end="54658" vertical-scroll-proportion="-43.692307" vertical-offset="21236" max-vertical-offset="23613">
-          <folding>
-            <element signature="tag#div#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#3;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#4;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#5;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#6;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#7;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#8;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="1460" column="30" selection-start="54658" selection-end="54658" vertical-scroll-proportion="0.0" vertical-offset="24820" max-vertical-offset="30413">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/table_basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2229" column="51" selection-start="84152" selection-end="95500" vertical-scroll-proportion="-6.3846154" vertical-offset="37727" max-vertical-offset="46495">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#5;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="2229" column="51" selection-start="84152" selection-end="95500" vertical-scroll-proportion="0.0" vertical-offset="37893" max-vertical-offset="50660">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rapido/table_data.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1703" column="57" selection-start="59075" selection-end="59257" vertical-scroll-proportion="-6.4339623" vertical-offset="28117" max-vertical-offset="38556">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#div#1;tag#div#0;tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="1703" column="57" selection-start="59075" selection-end="59257" vertical-scroll-proportion="0.0" vertical-offset="28951" max-vertical-offset="39049">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rooms/pages_form_wizard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1393" column="52" selection-start="55301" selection-end="55301" vertical-scroll-proportion="0.41744187" vertical-offset="23322" max-vertical-offset="33354">
+        <state line="1441" column="74" selection-start="58013" selection-end="58013" vertical-scroll-proportion="0.0" vertical-offset="24497" max-vertical-offset="33354">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/pages_menu_administration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="312" column="138" selection-start="12672" selection-end="12672" vertical-scroll-proportion="0.6081395" vertical-offset="395" max-vertical-offset="19567">
+          <folding>
+            <element signature="tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#header#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#0;tag#div#0;tag#nav#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#0;tag#div#0;tag#nav#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
